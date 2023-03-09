@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3932d922-00b8-4a60-8005-f65cfd252c55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Hellobranch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3932d922-00b8-4a60-8005-f65cfd252c55" name="Changes" comment="uj class uzentetel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +20,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/exercises" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,8 +68,18 @@
       <workItem from="1677140327559" duration="31000" />
       <workItem from="1677442269834" duration="1192000" />
       <workItem from="1677485232461" duration="610000" />
-      <workItem from="1677782439141" duration="328000" />
+      <workItem from="1677782439141" duration="1037000" />
+      <workItem from="1678282521139" duration="609000" />
+      <workItem from="1678349917412" duration="338000" />
     </task>
+    <task id="LOCAL-00001" summary="uj class uzentetel">
+      <created>1677782782479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677782782479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uj class uzentetel" />
+    <option name="LAST_COMMIT_MESSAGE" value="uj class uzentetel" />
   </component>
 </project>
